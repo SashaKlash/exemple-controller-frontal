@@ -18,5 +18,12 @@ Créez des branches par actions, et surtout faires régulièrement des sauvegard
     ...
     git push origin NomDeMaBranche
 
+Puis effectuer un pull request sur la `main` sur github, ensuite le valider et retourner sur la `main` en local et faire
+    
+    git checkout main
+    git pull origin main
+
+Et puis création d'une nouvelle branche et ainsi de suite...
+
 ## Étape 3
 Création du contrôleur fontal nommé `index.php`
