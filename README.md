@@ -34,3 +34,5 @@ Création d'un `.gitignore`pour rendre invisible `config.php` avant sa création
 ## Étape 5
 Création du véritable config.php
 
+On peut créer une copie de `config.php` de laquelle on retirerait les informations sensibles : `config.php.info`
+
