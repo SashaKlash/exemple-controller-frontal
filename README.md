@@ -33,3 +33,4 @@ Création d'un `.gitignore`pour rendre invisible `config.php` avant sa création
 
 ## Étape 5
 Création du véritable config.php
+
