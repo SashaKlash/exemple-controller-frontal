@@ -27,3 +27,10 @@ Et puis création d'une nouvelle branche et ainsi de suite...
 
 ## Étape 3
 Création du contrôleur fontal nommé `index.php`
+
+## Étape 4
+Création d'un `.gitignore`pour rendre invisible `config.php` avant sa création.
+
+## Étape 5
+Création du véritable config.php
+
