@@ -9,7 +9,7 @@ Clonez celui-ci sur votre machine.
 
 Entrez dans le référenciel sur la branche par défaut : `main`
 
-Créez un virtualhost
+Créez un virtualhost 
 
 ## Étape 2
 Créez des branches par actions, et surtout faires régulièrement des sauvegardes (commit)
